@@ -1,0 +1,2 @@
+# algologico
+sólo logico
